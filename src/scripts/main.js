@@ -1,9 +1,10 @@
+/* eslint-disable max-len */
 'use strict';
 
-document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("contactForm").addEventListener("submit", function (event) {
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Останавливаем стандартную отправку
-    alert("Форма отправлена!");
+    window.alert('Форма отправлена!');
     this.reset();
   });
 });
