@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/kifont/Game-2048.git
+git clone https://github.com/kifont/Bang-Olufsen-landing.git
 cd Game-2048
 ```
 #### 2. Install dependencies
